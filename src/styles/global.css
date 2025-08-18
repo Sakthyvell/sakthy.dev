@@ -5,19 +5,21 @@
 
 :root,
 html[data-theme="light"] {
-  --background: #fdfdfd;
-  --foreground: #282728;
-  --accent: #006cac;
-  --muted: #e6e6e6;
-  --border: #ece9e9;
+  --background: #fdfcf9;       /* warm rice paper white */
+  --foreground: #1e1e1e;       /* dark earthy gray */
+  --accent: #558b2f;           /* olive green */
+  --accent-alt: #c2185b;       /* muted raspberry */
+  --muted: #f3f1ec;            /* parchment gray */
+  --border: #d6d2c4;           /* soft neutral border */
 }
 
 html[data-theme="dark"] {
-  --background: #212737;
-  --foreground: #eaedf3;
-  --accent: #ff6b01;
-  --muted: #343f60;
-  --border: #ab4b08;
+  --background: #1a1a1a;       /* deep charcoal */
+  --foreground: #f0f0f0;       /* light smoke gray */
+  --accent: #9ccc65;           /* sage green */
+  --accent-alt: #f06292;       /* soft rose pink */
+  --muted: #2a2a2a;            /* grounding background */
+  --border: #404040;           /* gentle separation */
 }
 
 @theme inline {

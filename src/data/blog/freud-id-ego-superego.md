@@ -8,6 +8,8 @@ featured: true
 draft: false
 tags:
   - freudian
+  - psychology
+  - demo
 description:
   My low-tech, high-curiosity take on the id, ego, and superego.
 ---
