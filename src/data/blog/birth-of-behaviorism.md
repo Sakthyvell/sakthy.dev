@@ -37,7 +37,7 @@ He introduced four key ideas:
 
 So yeah—ring bell → no food yet → dog still drools. This kind of proved that a stimulus association can be learned by the subject. 
 
-# Skinner’s Mice in a Box  
+# Skinner’s Mice in a Box 🐭  
 
 Skinner zoomed out a bit. Instead of just pairing things, he studied how behavior changes depending on conditions. His “Skinner box” experiments led to **operant conditioning**, which works through four rules:  
 
@@ -46,17 +46,35 @@ Skinner zoomed out a bit. Instead of just pairing things, he studied how behavio
 3. **Punishment**: do something, get something bad → behavior decreases.  
 4. **Extinction**: do something, nothing happens → behavior fades out.  
 
+Put simply — 
+- press lever → get food → mouse keeps pressing (positive reinforcement)  
+- press lever → avoid shock → mouse keeps pressing (negative reinforcement)  
+- press lever → get shock → mouse stops pressing (punishment)  
+- press lever → nothing happens → mouse eventually gives up (extinction)  
+
 ## Schedules of reinforcement  
 
-- **Continuous reinforcement**: reward every single time.  
-- **Partial reinforcement**: reward sometimes (turns out this one works better long-term).  
+Skinner didn’t stop at just the *types* of conditioning. He also looked at the *timing* of rewards and punishments. Turns out, **when** you give a reward can be just as powerful as the reward itself.  
+
+There are two main ways to schedule reinforcement:  
+
+- **Continuous reinforcement**: reward every single time the behavior happens. Great for teaching new behaviors, but it fades fast if the reward stops.  
+- **Partial reinforcement**: reward only sometimes. This one sticks better long-term because the subject keeps trying, not knowing exactly when the reward will come.  
 
 ### Partial reinforcement types  
 
-1. **Fixed-ratio**: reward after a set number of actions (e.g., every 5 lever presses).  
+Skinner broke partial reinforcement down even further:  
+
+1. **Fixed-ratio**: reward after a set number of actions (like every 5 lever presses).  
 2. **Variable-ratio**: reward after a changing number of actions (like slot machines).  
 3. **Fixed-interval**: reward after a set amount of time (like a weekly paycheck).  
 4. **Variable-interval**: reward after changing time intervals (like checking your inbox and finding random emails).  
+
+What this showed was 
+- fixed-ratio → work 5 times → always get reward (steady and predictable).  
+- variable-ratio → keep trying → reward shows up randomly (super addictive).  
+- fixed-interval → wait for timer → get reward on schedule (burst of activity near the end).  
+- variable-interval → keep checking → reward drops in unexpectedly (slow but steady).  
 
 # Reflection  
 
